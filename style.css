@@ -1,0 +1,53 @@
+body {
+    background: black;
+    margin: 10px 200px;
+}
+
+
+header {
+    background: white;
+    padding: 21px;   
+}
+
+header h1 {
+    padding-left: 8.7em;
+    margin: 0;
+}
+
+
+.container .post {
+    width: 600px;
+    margin: auto;
+}
+
+div .post {
+    background: white;
+    margin-top: 0;
+}
+
+div .post-header {
+    display: flex;
+    flex-grow: 1;
+    margin-top: 60px;
+}
+
+div .title  {
+    width: 50%;
+}
+
+div .date {
+    color: grey;
+    text-align: right;
+    width: 50%;     
+    padding: 35px 10px 0px 0px;
+}
+div .post img {
+    width: 100%;    
+}
+
+div .post h2, div .post p {
+       padding: 10px;
+}
+div#wrapper {
+    background: gainsboro
+}
